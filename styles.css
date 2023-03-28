@@ -2,11 +2,11 @@
 /* Your CSS Code here. */
 .container{
 	width:200px;
-	background-color:purple;
+	background-color:rgb(128,0,128);
     padding:10px;
 	border:1px solid;
-	border-left-color: green;
-	border-left-width:thick;
+	border-left-color: rgb(0,128,0);
+	border-left-width:5px;
 }
 h3{
 	font-size:20px;
