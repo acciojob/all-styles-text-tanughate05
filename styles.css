@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-div h3{
+div >h3{
 	width:200px;
 	background-color:purple;
-	border:solid;
+	 border-left:5px solid;
 	border-left-color: green;
-	border-left-width:5px;
 	padding:10px;
+
 	font-size:20px;
 	color:white;
 }
