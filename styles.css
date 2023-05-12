@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-div >h3{
+.main,.h3{
 	width:200px;
 	background-color:purple;
 	border-left-style:solid;
